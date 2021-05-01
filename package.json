@@ -1,0 +1,23 @@
+{
+  "name": "movie-api",
+  "version": "1.0.0",
+  "description": "movies api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melisnv/movie-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melisnv/movie-api/issues"
+  },
+  "homepage": "https://github.com/melisnv/movie-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
