@@ -1,0 +1,123 @@
+{
+  "bannerMovie": [
+    {
+      "bannerCategoryId": "1",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 1,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/homebanner1.png?alt=media&token=d34c1ced-602a-4275-877e-d60dbdcc1124",
+      "movieName": "Friends"
+    },
+    {
+      "bannerCategoryId": "1",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 2,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/homebanner2.png?alt=media&token=57058baf-b5d1-4815-9f34-0f744f2413b6",
+      "movieName": "Harry Potter"
+    },
+    {
+      "bannerCategoryId": "1",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 3,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/homebanner3.png?alt=media&token=09ad316a-8ab5-4447-affe-4b804fc38f67",
+      "movieName": "The Notebook"
+    },
+    {
+      "bannerCategoryId": "1",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 4,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/homebanner4.png?alt=media&token=817fe031-41ae-44fb-a49c-f48f64d971c9",
+      "movieName": "The Winx Club"
+    },
+    {
+      "bannerCategoryId": "1",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 5,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/homebanner5.png?alt=media&token=9f5ebeca-71f1-4141-9248-5d6041dbc502",
+      "movieName": "Peaky Blinders"
+    },
+    {
+      "bannerCategoryId": "2",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 1,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/tvshowbanner1.png?alt=media&token=e7e5c210-3591-4208-a381-5d431f9f1518",
+      "movieName": "Bridgerton"
+    },
+    {
+      "bannerCategoryId": "2",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 2,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/tvshowbanner2.png?alt=media&token=d44c97a0-92af-4fd2-8e59-bb2e1a6b8cd4",
+      "movieName": "The Crown"
+    },
+    {
+      "bannerCategoryId": "2",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 3,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/tvshowbanner3.png?alt=media&token=60e48a9c-5a47-48a4-afd1-25e1e48f529f",
+      "movieName": "Anne With an E"
+    },
+    {
+      "bannerCategoryId": "2",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 4,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/tvshowbanner4.png?alt=media&token=d71da06f-6735-4c93-a5d5-7baf7961cf4c",
+      "movieName": "Unorthodox"
+    },
+    {
+      "bannerCategoryId": "3",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 1,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/moviebanner1.png?alt=media&token=5a972f9d-4222-4a76-836e-944a7f39e699",
+      "movieName": "Enola Holmes"
+    },
+    {
+      "bannerCategoryId": "3",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 2,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/moviebanner2.png?alt=media&token=9ec35e86-3f7e-437d-a025-84b7053b1229",
+      "movieName": "The Great Gatsby"
+    },
+    {
+      "bannerCategoryId": "3",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 3,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/moviebanner3.png?alt=media&token=f95a84b8-02de-4e0f-be4a-0251eaf5f1bc",
+      "movieName": "Interstellar"
+    },
+    {
+      "bannerCategoryId": "4",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 1,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/kidsbanner1.png?alt=media&token=bfc058d8-7c28-41f1-8616-c4b9d2e977be",
+      "movieName": "Carmen Sandiego"
+    },
+    {
+      "bannerCategoryId": "4",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 2,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/kidsbanner2.png?alt=media&token=8a4c9665-31e0-4ba2-954e-b97355982c1d",
+      "movieName": "Smurfs : Lost Village"
+    },
+    {
+      "bannerCategoryId": "4",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 3,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/kidsbanner3.png?alt=media&token=e06e353f-54b6-41d7-8f3e-cd8fd34ee4b7",
+      "movieName": "Paw Patrol"
+    },
+    {
+      "bannerCategoryId": "4",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 4,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/kidsbanner4.png?alt=media&token=489d0035-ac00-49da-b713-a7a27b43ad7d",
+      "movieName": "Pup Academy"
+    },
+    {
+      "bannerCategoryId": "4",
+      "fileUrl:": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/handmaidstale.mp4?alt=media&token=8838e423-5448-4749-9191-3816304fe582",
+      "id": 5,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/primeclone-e8a29.appspot.com/o/kidsbanner5.png?alt=media&token=f6b96d4a-7e36-4151-848c-18e59b506a4b",
+      "movieName": "Full Out 2"
+    }
+  ]
+}
